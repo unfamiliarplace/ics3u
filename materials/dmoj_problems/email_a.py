@@ -1,6 +1,6 @@
 # Email
 # https://dmoj.ca/problem/ecoo19r2p1
-# Solution B
+# Solution A
 
 def sanitize_email(email: str) -> str:
     """

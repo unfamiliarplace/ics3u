@@ -33,6 +33,7 @@ There is a folder called [ics4u_supplement](materials/notebooks/ics4u_supplement
 * Create a list of creative homework exercises / mini-projects for consolidation of the concepts. The exercises in the notebooks are too narrowly defined to serve this purpose. Good exercises are designed to allow everyone to solve it in their own way with their own content. There is a small but highly underdeveloped list in the folder at present.
 * Make more documentation exercises, preferably at least one per concept/notebook. Identify the existing ones by concept instead of number.
 * Find ways to differentiate My Programming Handbook more. Currently, I look for plagiarism only by identifying definitions and examples that are identical between students, but it would be good for it to have more scope for individual creativity in the note-taking.
+* The notebooks on files currently rely on downloading some JSON data via [npoint.io](https://www.npoint.io/). This data is personalized to a class I once had, and I update it each time. A better solution would be nice.
 * I may at some point integrate the rest of the course into this repo. Currently it only holds the programming unit, but I've also created materials for the computer basics, software development, and topics/careers units, plus miscellaneous projects, all of which is probably useful to other ICS3U teachers too.
 
 ## License

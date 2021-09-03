@@ -2,27 +2,27 @@
 
 ## Jupyter Notebooks
 
-1.  [My Programming Handbook](materials/notebooks/My%20Programming%20Handbook%20(Blank).ipynb) (glossary + toolbox)
+1.  [My Programming Handbook](materials/notebooks/My%20Programming%20Handbook%20.ipynb) (glossary + toolbox)
     
 2. [Math](materials/notebooks/Math.ipynb)
   
 3. [Strings](materials/notebooks/Strings.ipynb)
   
-4. [Variables & IO](materials/notebooks/Variables%20&%20IO.ipynb)
+4. [Variables & IO](materials/notebooks/Variables%20%26%20IO.ipynb)
   
 5. [Conditions](materials/notebooks/Conditions.ipynb)
   
 6. [Containers](materials/notebooks/Containers.ipynb)
   
-7. [For loops](materials/notebooks/For%20loops.ipynb)
+7. [For Loops](materials/notebooks/For%20Loops.ipynb)
   
-8. [While loops](materials/notebooks/While%20loops.ipynb)
+8. [While Loops](materials/notebooks/While%20Loops.ipynb)
   
-9. [Loops appendix](materials/notebooks/Loops%20appendix.ipynb)
+9. [Loops Appendix](materials/notebooks/Loops%20Appendix.ipynb)
   
 10. [Lists 1 (Introduction)](materials/notebooks/Lists%201%20(Introduction).ipynb)
   
-11. [Lists 2 (Lists & Loops)](materials/notebooks/Lists%202%20(Lists%20&%20Loops).ipynb)
+11. [Lists 2 (Lists & Loops)](materials/notebooks/Lists%202%20(Lists%20%26%20Loops).ipynb)
   
 12. [Functions 1 (Recipe)](materials/notebooks/Functions%201%20(Recipe).ipynb)
   
@@ -44,7 +44,7 @@
   
 21. [Applications of Programming](materials/notebooks/Applications%20of%20Programming.ipynb)
     
-22.  [ICS4U Preview](materials/notebooks/misc/ICS4U%20Preview.ipynb)
+22.  [ICS4U Preview](materials/notebooks/miscellaneous/ICS4U%20Preview.ipynb)
     
 
 ## Documentation exercises
@@ -123,7 +123,7 @@
   - [Plateforme](https://dmoj.ca/problem/crci07p1)
   - [Misa](https://dmoj.ca/problem/coci13c2p2)
 - Sets
-  - **[Email](https://dmoj.ca/problem/ecoo19r2p1)** • [starter](materials/dmoj_problems/email_starter.py) • [solution](materials/dmoj_problems/email.py)
+  - **[Email](https://dmoj.ca/problem/ecoo19r2p1)** • [starter](materials/dmoj_problems/email_starter_.py) • solution [A](materials/dmoj_problems/email_a.py) | [B](materials/dmoj_problems/email_b.py)
   - [Bard](https://dmoj.ca/problem/crci06p1)
 - Dictionaries
   - [Cities and States](http://www.usaco.org/index.php?page=viewproblem2&cpid=667)

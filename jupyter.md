@@ -24,8 +24,8 @@ This is the form I tend to use, simply because any browser-based platform tends 
 
 ## IDE
 
-The alternative is to use the notebooks in an IDE setting, such as [VSCode](https://code.visualstudio.com/) with the Python and Jupyter extensions installed. In this case, you can simply distribute the `.ipnyb` files under [materials/notebooks](materials/notebooks) directly to the students. 
+The alternative is to use the notebooks in an IDE setting, such as [VSCode](https://code.visualstudio.com/) with the Python and Jupyter extensions installed. In this case, you can simply distribute the `.ipynb` files under [materials/notebooks](materials/notebooks) directly to the students. 
 
 This has the disadvantage of needing more setup, but since you are likely asking students to install it anyway, it may be well worth it. Also, execution tends to be faster since it uses your local machine's resources instead of pinging a Google server, and you don't need to worry about ensuring they save a copy in Drive before editing.
 
-It does also make it less convenient for students to share their edited notebooks back with you, considering how much high school students love Google Drive links — but in practice the only one that needs to be shared with you is [My Programming Handbook.ipnyb](materials/notebooks/My%20Programming%20Handbook.ipnyb). The others are not intended to be marked, just done as part of the *action* phase of the lesson.
+It does also make it less convenient for students to share their edited notebooks back with you, considering how much high school students love Google Drive links — but in practice the only one that needs to be shared with you is [My Programming Handbook.ipynb](materials/notebooks/My%20Programming%20Handbook.ipynb). The others are not intended to be marked, just done as part of the *action* phase of the lesson.
