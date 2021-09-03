@@ -2,7 +2,7 @@
 
 ## Jupyter Notebooks
 
-1.  [My Programming Handbook](materials/notebooks/My%20Programming%20Handbook%20.ipynb) (glossary + toolbox)
+1.  [My Programming Handbook](materials/notebooks/My%20Programming%20Handbook.ipynb) (glossary + toolbox)
     
 2. [Math](materials/notebooks/Math.ipynb)
   
